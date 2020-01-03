@@ -1,0 +1,23 @@
+{
+  "name": "sacdallago.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacdallago/sacdallago.github.io.git"
+  },
+  "author": "Christian Dallago <code@dallago.us> (https://github.com/sacdallago)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacdallago/sacdallago.github.io/issues"
+  },
+  "homepage": "https://github.com/sacdallago/sacdallago.github.io#readme"
+}
