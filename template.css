@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    background: #171717;
+    font-size: 1em;
+    /*line-height: 1em;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: inherit;
+    text-decoration: underline;
+}

@@ -13,4 +13,4 @@ And a new paragraph on a separate line:
 
 ### To conclude
 
-_Thank you_
+_Thank you_, got to this [example link](//example.link).

@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "deploy": "npm start && git add --all && git commit -am 'autobuild' && git push origin master"
   },
   "repository": {
     "type": "git",
