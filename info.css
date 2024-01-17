@@ -1,0 +1,41 @@
+body {
+   background: #171717;
+    font-size: 1.3em;
+    line-height: 1em;
+    font-family: Monaco, courier;
+    margin: 50 50;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.container {
+  text-align: justify;
+  max-width: 900;
+  color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* mouse over link */
+a:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* selected link */
+a:active {
+    color: inherit;
+    text-decoration: inherit;
+}
